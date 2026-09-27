@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khxn-codes/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khxn-codes/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
 | ------- |
