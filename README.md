@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/khxn-codes/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/khxn-codes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2485-find-the-pivot-integer](https://github.com/khxn-codes/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/khxn-codes/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
