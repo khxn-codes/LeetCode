@@ -6,10 +6,7 @@ public:
         for(int i=0;i<n;i++)
         {
             res[i]=nums[i];
-        }
-        for(int i=n;i<2*n;i++)
-        {
-            res[i]=nums[i-n];
+            res[i+n]=nums[i];
         }
         return res;
     }
