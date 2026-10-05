@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/khxn-codes/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khxn-codes/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/khxn-codes/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/khxn-codes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khxn-codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/khxn-codes/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
