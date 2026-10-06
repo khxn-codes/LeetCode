@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/khxn-codes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
 | [2485-find-the-pivot-integer](https://github.com/khxn-codes/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khxn-codes/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/khxn-codes/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/khxn-codes/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/khxn-codes/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/khxn-codes/LeetCode/tree/master/0342-power-of-four) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
