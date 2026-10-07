@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
+| [3813-vowel-consonant-score](https://github.com/khxn-codes/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/khxn-codes/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3813-vowel-consonant-score](https://github.com/khxn-codes/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
