@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/khxn-codes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khxn-codes/LeetCode/tree/master/0877-stone-game) |
