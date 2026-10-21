@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/khxn-codes/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/khxn-codes/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khxn-codes/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/khxn-codes/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/khxn-codes/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khxn-codes/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khxn-codes/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khxn-codes/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khxn-codes/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Array
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khxn-codes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khxn-codes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/khxn-codes/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/khxn-codes/LeetCode/tree/master/0342-power-of-four) |
 ## Minimax
 |  |
