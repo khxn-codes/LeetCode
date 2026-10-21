@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khxn-codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khxn-codes/LeetCode/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khxn-codes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
