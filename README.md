@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khxn-codes/LeetCode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/khxn-codes/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/khxn-codes/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khxn-codes/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khxn-codes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/khxn-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/khxn-codes/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0283-move-zeroes) |
@@ -182,4 +184,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khxn-codes/LeetCode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
