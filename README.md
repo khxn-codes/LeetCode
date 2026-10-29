@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khxn-codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/khxn-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khxn-codes/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/khxn-codes/LeetCode/tree/master/0412-fizz-buzz) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khxn-codes/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/khxn-codes/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/khxn-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/khxn-codes/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khxn-codes/LeetCode/tree/master/0344-reverse-string) |
