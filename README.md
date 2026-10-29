@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/khxn-codes/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khxn-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khxn-codes/LeetCode/tree/master/0242-valid-anagram) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khxn-codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/khxn-codes/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khxn-codes/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/khxn-codes/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khxn-codes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khxn-codes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/khxn-codes/LeetCode/tree/master/0169-majority-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khxn-codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khxn-codes/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/khxn-codes/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/khxn-codes/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/khxn-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/khxn-codes/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/khxn-codes/LeetCode/tree/master/0283-move-zeroes) |
@@ -206,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/khxn-codes/LeetCode/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khxn-codes/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khxn-codes/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
